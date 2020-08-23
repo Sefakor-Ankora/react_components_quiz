@@ -1,5 +1,6 @@
 import React from "react";
-import REACTDOM from "react-dom"
+import REACTDOM from "react-dom";
+import { ReactComponent } from "*.svg";
 
 
 // Converted to class based component
